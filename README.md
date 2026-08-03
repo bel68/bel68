@@ -50,4 +50,5 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
   </a>
 </p>
 
-
+<!-- FOOTER CON ONDA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00B4DB&height=100&section=footer"/>
