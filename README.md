@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Belcy%20Olivera%20Vizcarra&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%26+Flutter+Developer;Data+Analyst+%26+Python;Power+BI+%26+Data+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Wordpress+Websites;Laravel+-+Django+%26+Flutter+Developer;Data+Analyst+%26+Python;Power+BI+%26+Data+Visualization"/>
 </p>
 
 ---
