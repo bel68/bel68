@@ -7,10 +7,10 @@
 
 ---
 
-## <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/> Sobre Mí
+## <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/>  Sobre Mí
 
 
-Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
+Desarrollador enfocado en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
 
 ▸ **Desarrollo:** Construcción de sistemas web robustos con **Laravel**, aplicaciones móviles multiplataforma con **Flutter** y desarrollo de soluciones a medida.  
 ▸ **Análisis de Datos:** Procesamiento, limpieza y modelado de datos con **Python & SQL**, además del diseño de dashboards interactivos en **Power BI**.  
@@ -18,7 +18,7 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8d0bafde-2470-4b20-bb3e-0ea9d2e1958c" /> Tecnologías
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8d0bafde-2470-4b20-bb3e-0ea9d2e1958c" />  Tecnologías
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="16" valign="middle"/> Software & Web Development
 <p align="left">
@@ -41,11 +41,11 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg" width="22" valign="middle"/> Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL" target="_blank">
+  <a href="https://www.linkedin.com/in/belcy-fernando-olivera-vizcarra-240205244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:tu_correo@email.com">
+  <a href="mailto:belfer6868@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
