@@ -10,7 +10,7 @@
 ## <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/>  Sobre Mí
 
 
-Ingeniero y Desarrollador enfocado en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
+Ingeniero y Desarrollador enfocado en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos (Análisis exploratorio de datos, Machine learning y Deep learning) para la toma de decisiones estratégicas.
 
 ▸ **Desarrollo Full-Stack & CMS:** Desarrollo de sistemas web robustos con **Laravel** y **Django** y aplicaciones móviles multiplataforma con **Flutter**. Además, implementación y personalización de sitios web dinámicos en **WordPress** (temas personalizados, plugins y optimización SEO), asegurando soluciones escalables y de alto rendimiento.
 
