@@ -10,19 +10,22 @@
 ## <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/>  Sobre Mí
 
 
-Desarrollador enfocado en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
+Ingeniero y Desarrollador enfocado en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
 
-▸ **Desarrollo:** Construcción de sistemas web robustos con **Laravel**, aplicaciones móviles multiplataforma con **Flutter** y desarrollo de soluciones a medida.  
+▸ **Desarrollo Full-Stack & CMS:** Desarrollo de sistemas web robustos con **Laravel** y **Django** y aplicaciones móviles multiplataforma con **Flutter**. Además, implementación y personalización de sitios web dinámicos en **WordPress** (temas personalizados, plugins y optimización SEO), asegurando soluciones escalables y de alto rendimiento.
+
 ▸ **Análisis de Datos:** Procesamiento, limpieza y modelado de datos con **Python & SQL**, además del diseño de dashboards interactivos en **Power BI**.  
+
 ▸ **Enfoque:** Resolución de problemas complejos mediante software eficiente, arquitectura limpia e inteligencia de negocios.
 
+ 
 ---
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8d0bafde-2470-4b20-bb3e-0ea9d2e1958c" />  Tecnologías
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="16" valign="middle"/> Software & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,html,css,bootstrap,tailwind,wordpress" alt="Dev Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,django,flutter,dart,js,html,css,bootstrap,tailwind,wordpress" alt="Dev Stack" />
 </p>
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" valign="middle"/> Data Analysis & Databases
