@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Belcy%20Olivera&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Belcy%20Olivera%20Vizcarra&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%26+Flutter+Developer;Data+Analyst+%26+Python;Power+BI+%26+Data+Visualization"/>
@@ -18,7 +18,7 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-24.svg" width="22" valign="middle"/> Tech Stack
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8d0bafde-2470-4b20-bb3e-0ea9d2e1958c" /> Tecnologías
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="16" valign="middle"/> Software & Web Development
 <p align="left">
@@ -38,25 +38,6 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="22" valign="middle"/> Proyectos Destacados
-
-| Proyecto | Descripción | Tech Stack | Enlace |
-| :--- | :--- | :--- | :---: |
-| **Nombre del Proyecto 1** | Breve descripción de la solución web o aplicación móvil desarrollada. | `Laravel` `Flutter` `MySQL` | [Ver Repo](#) |
-| **Dashboard Analítico** | Análisis exploratorio de datos y visualización interactiva de métricas clave. | `Python` `Power BI` `SQL` | [Ver Repo](#) |
-| **API / Sistema Backend** | Arquitectura backend y gestión de servicios escalables. | `PHP` `PostgreSQL` | [Ver Repo](#) |
-
----
-
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="22" valign="middle"/> Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg" width="22" valign="middle"/> Contacto
 
 <p align="center">
@@ -68,3 +49,5 @@ Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles esca
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
