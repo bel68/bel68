@@ -22,12 +22,13 @@ Desarrollador enfocado en la creación de aplicaciones web y móviles escalables
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="16" valign="middle"/> Software & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,html,css,bootstrap,tailwind" alt="Dev Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,html,css,bootstrap,tailwind,wordpress" alt="Dev Stack" />
 </p>
 
 #### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" valign="middle"/> Data Analysis & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite" alt="Data Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
@@ -49,6 +50,7 @@ Desarrollador enfocado en la creación de aplicaciones web y móviles escalables
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 <!-- FOOTER CON ONDA -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00B4DB&height=100&section=footer"/>
