@@ -7,7 +7,7 @@
 
 ---
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/> Sobre Mí
+## <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/560447eb-9edc-4c13-aa2a-339dced94ea7"/> Sobre Mí
 
 
 Desarrollador(a) enfocado(a) en la creación de aplicaciones web y móviles escalables, combinadas con la transformación de datos para la toma de decisiones estratégicas.
